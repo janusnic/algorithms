@@ -1,2 +1,5 @@
+# IDE folder
+.c9
+
 # Ignore Java compile file
 *.class
