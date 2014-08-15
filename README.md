@@ -5,5 +5,6 @@ In this repo I am going to share algorithms in most popular programming language
 
 List of algorithms:
 
-1. [Array sum](/array-sum)
-: For the givven array calculate sum of the elements (solution in Python, Java, JavaScript)
+- [Array sum](/array-sum) 
+
+  For the givven array calculate sum of the elements. See code on [Python](/array-sum/array-sum.py), [Java](/array-sum/array-sum.java), [JavaScript](/array-sum/array-sum.js)
