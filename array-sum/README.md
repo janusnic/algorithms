@@ -52,7 +52,7 @@ For the givven array calcualte sum of the elements.
         }
     }
 
-> To run this execute **javac ArraySum.java** then **java ArraySum**.
+> To run this execute **javac ArraySum.java** then **java ArraySum** (javac command will generate ArraySum.class).
 
 # JavaScript
 
@@ -72,4 +72,4 @@ For the givven array calcualte sum of the elements.
     
     alert(sum);
 
-> To run this open **array-sup.html**.
+> To run this open **array-sum.html**.
