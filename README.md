@@ -5,6 +5,10 @@ In this repo I am going to share algorithms in most popular programming language
 
 List of algorithms:
 
-- [Array sum](/array-sum) 
+- [Array sum](/array-sum)
 
-  For the givven array calculate sum of the elements. See code on [Python](/array-sum/array-sum.py), [Java](/array-sum/array-sum.java), [JavaScript](/array-sum/array-sum.js)
+  For the give array calculate sum of the elements. See code on [Python](/array-sum/array-sum.py), [Java](/array-sum/array-sum.java), [JavaScript](/array-sum/array-sum.js)
+
+- [Array reverse](/array-reverse)
+
+  Flip give array.
