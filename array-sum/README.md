@@ -20,6 +20,8 @@ For the givven array calcualte sum of the elements.
         sum += element
     print "Sum: =", sum
 
+> To run this execute **python array-sum.py**.
+
 # Java
 
     import java.io.Console;
@@ -50,6 +52,8 @@ For the givven array calcualte sum of the elements.
         }
     }
 
+> To run this execute **javac ArraySum.java** then **java ArraySum** (javac command will generate ArraySum.class).
+
 # JavaScript
 
     var givenArray = [];
@@ -67,3 +71,5 @@ For the givven array calcualte sum of the elements.
     }
     
     alert(sum);
+
+> To run this open **array-sum.html**.
