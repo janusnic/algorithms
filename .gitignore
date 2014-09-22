@@ -1,5 +1,10 @@
 # IDE folder
 .c9
+.idea
 
 # Ignore Java compile file
 *.class
+
+# Mac
+*.DS_Store
+
