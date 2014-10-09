@@ -11,4 +11,12 @@ List of algorithms:
 
 - [Array reverse](/array-reverse)
 
-  Flip give array.
+  Flip given array.
+
+- [Fibonacci](/fibonacci)
+    
+  3 functions to find Fibonacci numbers.
+
+- [Deque](/deque)
+
+  Contains class "deque" with 6 methods.
