@@ -1,7 +1,7 @@
 Deque
 ---------
 
-Contains class "deque" with 5 methods.
+Contains class "deque" with 6 methods.
 
 # C++
 
