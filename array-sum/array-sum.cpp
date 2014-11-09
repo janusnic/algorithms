@@ -17,7 +17,7 @@ int main()
     	else break;
     }
     
-    cout<<"Sum = "<<sum<<endl; 
+    cout<<"Sum is = "<<sum<<endl; 
     
     return 0;
 }
